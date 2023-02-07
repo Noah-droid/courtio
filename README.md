@@ -1,0 +1,1 @@
+Welcome to the courtio, a platform for law students to learn about court sessions and legal proceedings. The app is built using Django, a high-level Python web framework, and provides an easy-to-use interface for managing and organizing court cases, judges, and witnesses.
